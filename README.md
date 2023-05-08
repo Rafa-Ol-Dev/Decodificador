@@ -27,6 +27,7 @@ e também retornar uma palavra criptografada para a versão original.
 
 Por exemplo:
 -"gato" => "gaitober"
+
 -gaitober" => "gato"
 
 A página tem campos para inserção do texto a ser criptografado ou
