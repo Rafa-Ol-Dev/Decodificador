@@ -4,6 +4,7 @@ Aplicação foi um coding challenge parte da trilha
 Formação Iniciante em Programação T3 - One, da Alura.
 
 -Realizada em agosto de 2022
+
 -Concluída em setembro de 2022
 
 ## Sobre
