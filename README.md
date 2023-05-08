@@ -34,7 +34,7 @@ A página tem campos para inserção do texto a ser criptografado ou
 descriptografado, e o usuário pode escolher entre as duas opções; o
 resultado é exibido na tela.
 
-## Extra:
+### Extra:
 - Um botão que copia o texto criptografado/descriptografado para a
 área de transferência foi acrescentado, ou seja, ele tem a mesma
 funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
