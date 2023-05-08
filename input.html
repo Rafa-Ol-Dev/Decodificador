@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="media.css" />
+    <title>Codificador</title>
+  </head>
+
+  <body>
+    <header>
+      <img class="logo" src="./img/r.png" alt="logo da página" />
+    </header>
+    <main>
+      <section>
+        <textarea
+          class="input-texto"
+          cols="40"
+          rows="12"
+          placeholder="Digite seu texto:"
+          style="resize: none"
+        ></textarea>
+        <div>
+          <h6 class="informação">Apenas letras minúsculas e sem acento</h6>
+        </div>
+
+        <div class="botoes">
+          <button class="encriptar" onclick="btnCriptografar()">
+            Criptografar
+          </button>
+          <button class="desencriptar" onclick="btnDescriptografar()">
+            Descriptografar
+          </button>
+        </div>
+      </section>
+
+      <section class="mensagem-box">
+        <textarea
+          class="mensagem"
+          cols="35"
+          rows="15"
+          style="resize: none"
+        ></textarea>
+        <div id="div-aparece">
+          <button class="copiar" onclick="copiar()">Copiar</button>
+        </div>
+      </section>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,107 @@
+@media screen and (max-width: 1024px) {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .logo {
+    margin-left: -260px;
+  }
+  main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  section {
+    margin: 0 0 50px 0;
+  }
+  .mensagem-box {
+    margin-left: -60px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  body {
+    margin-left: 25px;
+  }
+  .logo {
+    margin-left: -265px;
+  }
+  .mensagem-box {
+    margin-left: -10px;
+  }
+  .input-texto,
+  .mensagem {
+    width: 90%;
+    height: 80%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  * {
+    margin: 0;
+  }
+
+  body {
+    margin-left: 35px;
+  }
+  .logo {
+    margin-left: -235px;
+  }
+  .mensagem-box {
+    margin-left: 1px;
+  }
+  .input-texto,
+  .mensagem {
+    width: 70%;
+    height: 60%;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .logo {
+    margin-left: -218px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .logo {
+    margin-left: -213px;
+  }
+
+  .botoes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+    margin: 10px 0;
+  }
+  .encriptar, .desencriptar {
+    font-size: 15px;
+    line-height: 0%;
+    width: 65%;
+  }
+  .mensagem {
+    background-size: 70%, 90%;
+  }
+}
+
+@media screen and (max-width: 399px) {
+  .logo {
+    margin-left: -190px;
+  }
+}
+
+@media screen and (max-width: 362px) {
+  .informação {
+    font-size: 11.5px;
+  }
+}
