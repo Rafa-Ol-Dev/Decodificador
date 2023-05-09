@@ -52,7 +52,7 @@ main {
 }
 
 .mensagem {
-  background-image: url(img/busca.png), url(img/msg.png);
+  background-image: url(../img/busca.png), url(../img/msg.png);
   background-repeat: no-repeat;
   background-position: 50% 30%, 50% 85%;
   background-size: 67%, auto;
