@@ -1,79 +1,63 @@
-# Decodificador
+#Decodificador
+O Decodificador é uma aplicação desenvolvida como parte do desafio de programação do curso "Formação Iniciante em Programação T3 - One" da Alura.
 
-Aplicação foi um coding challenge parte da trilha
-Formação Iniciante em Programação T3 - One, da Alura.
+Realizado em agosto de 2022.
+Concluído em setembro de 2022.
 
--Realizada em agosto de 2022
+##Sobre
+O Decodificador é uma aplicação que criptografa textos, permitindo que o usuário troque mensagens secretas com outras pessoas que conheçam a criptografia utilizada.
 
--Concluída em setembro de 2022
+As "chaves" de criptografia utilizadas são as seguintes:
 
-## Sobre
-Essa é uma aplicação que criptografa textos, assim
-o usuário poderá trocar mensagens secretas com outras
-pessoas que saibam o segredo da criptografia utilizada.
++A letra "e" é convertida para "enter".
++A letra "i" é convertida para "imes".
++A letra "a" é convertida para "ai".
++A letra "o" é convertida para "ober".
++A letra "u" é convertida para "ufat".
 
-#### As "chaves" de criptografia utilizadas foram:
+###Funcionalidades:
 
--A letra "e" é convertida para "enter";
--A letra "i" é convertida para "imes";
--A letra "a" é convertida para "ai";
--A letra "o" é convertida para "ober";
--A letra "u" é convertida para "ufat".
++Funciona apenas com letras minúsculas.
++Não aceita letras com acentos ou caracteres especiais.
++Permite converter uma palavra para a versão criptografada e vice-versa.
 
-### Funcionalidades:
-- funciona apenas com letras minúsculas;
-- não aceita letras com acentos nem caracteres especiais;
-- é ser possível converter uma palavra para a versão criptografada
-e também retornar uma palavra criptografada para a versão original.
+Exemplo: "gato" => "gaitober" / "gaitober" => "gato"
+A página possui campos para inserção do texto a ser criptografado ou descriptografado, e o usuário pode escolher entre as duas opções. O resultado é exibido na tela.
 
-Por exemplo:
--"gato" => "gaitober"
+###Recursos adicionais:
 
--gaitober" => "gato"
+Um botão de cópia foi adicionado para copiar o texto criptografado/descriptografado para a área de transferência, proporcionando a mesma funcionalidade do atalho "Ctrl+C" ou da opção "Copiar" do menu de contexto dos aplicativos.
 
-A página tem campos para inserção do texto a ser criptografado ou
-descriptografado, e o usuário pode escolher entre as duas opções; o
-resultado é exibido na tela.
+© 2023 Rafael Oliveira. All rights reserved.[^1]
 
-### Extra:
-- Um botão que copia o texto criptografado/descriptografado para a
-área de transferência foi acrescentado, ou seja, ele tem a mesma
-funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
+----------------
 
-----------------------------------------------------------------------
+#Decodificador
+The Decodificador is an application developed as part of the programming challenge for the "Beginner in Programming T3 - One" course from Alura.
 
-This application was a coding challenge that was part of the
-Formação Iniciante em Programação T3 - One track, offered by Alura.
+Completed in August 2022.
+Concluded in September 2022.
 
--Developed in August 2022
+##About
+The Decodificador is an application that encrypts texts, allowing users to exchange secret messages with others who know the encryption used.
 
--Completed in September 2022
+The encryption "keys" used are as follows:
 
-## About
-This is an application that encrypts texts, so the user can
-exchange secret messages with others who know the encryption secret used.
++The letter "e" is converted to "enter".
++The letter "i" is converted to "imes".
++The letter "a" is converted to "ai".
++The letter "o" is converted to "ober".
++The letter "u" is converted to "ufat".
 
-The encryption "keys" used were:
--The letter "e" is converted to "enter";
--The letter "i" is converted to "imes";
--The letter "a" is converted to "ai";
--The letter "o" is converted to "ober";
--The letter "u" is converted to "ufat".
+###Features
++Works only with lowercase letters.
++Does not accept letters with accents or special characters.
++Allows converting a word to the encrypted version and vice versa.
 
-### Functionalities:
--It only works with lowercase letters;
--It does not accept letters with accents or special characters;
--It is possible to convert a word to the encrypted version and
-also to return an encrypted word to the original version.
+Example: "gato" => "gaitober" / "gaitober" => "gato"
+The page has fields for inputting the text to be encrypted or decrypted, and the user can choose between the two options. The result is displayed on the screen.
 
-For example: 
--"gato" => "gaitober"
+###Additional Resources
+A copy button has been added to copy the encrypted/decrypted text to the clipboard, providing the same functionality as the "Ctrl+C" shortcut or the "Copy" option in the application's context menu.
 
--gaitober" => "gato"
-
-The page has fields for entering the text to be encrypted or decrypted,
-and the user can choose between these two options; the result is displayed on the screen.
-
-### Extra:
-A button that copies the encrypted/decrypted text to the clipboard has been added,
-meaning it has the same functionality as the ctrl+C or "copy" option in the application menu.
+© 2023 Rafael Oliveira. All rights reserved.[^1]
