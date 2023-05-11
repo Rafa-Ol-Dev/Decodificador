@@ -24,6 +24,7 @@ As "chaves" de criptografia utilizadas são as seguintes:
 + Permite converter uma palavra para a versão criptografada e vice-versa.
 
 Exemplo: "gato" => "gaitober" / "gaitober" => "gato"
+
 A página possui campos para inserção do texto a ser criptografado ou descriptografado, e o usuário pode escolher entre as duas opções. O resultado é exibido na tela.
 
 ### Recursos adicionais:
@@ -32,7 +33,6 @@ Um botão de cópia foi adicionado para copiar o texto criptografado/descriptogr
 
 - - -
 © 2023 Rafael Oliveira. All rights reserved.
-- - -
 
 # Decodificador
 
@@ -60,6 +60,7 @@ The encryption "keys" used are as follows:
 + Allows converting a word to the encrypted version and vice versa.
 
 Example: "gato" => "gaitober" / "gaitober" => "gato"
+
 The page has fields for inputting the text to be encrypted or decrypted, and the user can choose between the two options. The result is displayed on the screen.
 
 ### Additional Resources
@@ -68,4 +69,3 @@ A copy button has been added to copy the encrypted/decrypted text to the clipboa
 
 - - -
 © 2023 Rafael Oliveira. All rights reserved.
-- - -
