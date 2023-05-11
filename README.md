@@ -2,7 +2,8 @@
 
 O Decodificador é uma aplicação desenvolvida como parte do desafio de programação do curso "Formação Iniciante em Programação T3 - One" da Alura.
 
-Realizado em agosto de 2022.
+Iniciado em agosto de 2022.
+
 Concluído em setembro de 2022.
 
 ## Sobre
@@ -29,15 +30,16 @@ A página possui campos para inserção do texto a ser criptografado ou descript
 
 Um botão de cópia foi adicionado para copiar o texto criptografado/descriptografado para a área de transferência, proporcionando a mesma funcionalidade do atalho "Ctrl+C" ou da opção "Copiar" do menu de contexto dos aplicativos.
 
-
-##### © 2023 Rafael Oliveira. All rights reserved.
-
-----------------
+- - -
+© 2023 Rafael Oliveira. All rights reserved.
+- - -
 
 # Decodificador
+
 The Decodificador is an application developed as part of the programming challenge for the "Beginner in Programming T3 - One" course from Alura.
 
-Completed in August 2022.
+Started in August 2022.
+
 Concluded in September 2022.
 
 ## About
@@ -52,6 +54,7 @@ The encryption "keys" used are as follows:
 + The letter "u" is converted to "ufat".
 
 ### Features
+
 + Works only with lowercase letters.
 + Does not accept letters with accents or special characters.
 + Allows converting a word to the encrypted version and vice versa.
@@ -60,6 +63,9 @@ Example: "gato" => "gaitober" / "gaitober" => "gato"
 The page has fields for inputting the text to be encrypted or decrypted, and the user can choose between the two options. The result is displayed on the screen.
 
 ### Additional Resources
+
 A copy button has been added to copy the encrypted/decrypted text to the clipboard, providing the same functionality as the "Ctrl+C" shortcut or the "Copy" option in the application's context menu.
 
-##### © 2023 Rafael Oliveira. All rights reserved.
+- - -
+© 2023 Rafael Oliveira. All rights reserved.
+- - -
